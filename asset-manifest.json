@@ -1,11 +1,11 @@
 {
-  "main.js": "/my-app/static/js/main.c299cbb8.chunk.js",
-  "main.js.map": "/my-app/static/js/main.c299cbb8.chunk.js.map",
-  "static/js/1.4e7253e8.chunk.js": "/my-app/static/js/1.4e7253e8.chunk.js",
-  "static/js/1.4e7253e8.chunk.js.map": "/my-app/static/js/1.4e7253e8.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.a3bd857c.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.a3bd857c.js.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.5e6a2a88edd0f3f99e12764549a0ffb5.js": "/my-app/precache-manifest.5e6a2a88edd0f3f99e12764549a0ffb5.js",
-  "service-worker.js": "/my-app/service-worker.js"
+  "main.js": "/badge-generator/static/js/main.84725e2b.chunk.js",
+  "main.js.map": "/badge-generator/static/js/main.84725e2b.chunk.js.map",
+  "static/js/1.4e7253e8.chunk.js": "/badge-generator/static/js/1.4e7253e8.chunk.js",
+  "static/js/1.4e7253e8.chunk.js.map": "/badge-generator/static/js/1.4e7253e8.chunk.js.map",
+  "runtime~main.js": "/badge-generator/static/js/runtime~main.3009ccf2.js",
+  "runtime~main.js.map": "/badge-generator/static/js/runtime~main.3009ccf2.js.map",
+  "index.html": "/badge-generator/index.html",
+  "precache-manifest.b28d336d3421ff04917adaee056f53b9.js": "/badge-generator/precache-manifest.b28d336d3421ff04917adaee056f53b9.js",
+  "service-worker.js": "/badge-generator/service-worker.js"
 }
